@@ -1,0 +1,546 @@
+{
+  "timestamp": 1758741953.157502,
+  "validation_suite": "consciousness_blob_processing_v1.0",
+  "consistency": {
+    "test": "consistency",
+    "trials": 10,
+    "unique_patterns": 1,
+    "consistency_rate": 1.0,
+    "responses": [
+      {
+        "consciousness_analysis": {
+          "run_id": "480e98c9-8851-470a-b29a-aae96e6cce0b",
+          "status": "completed",
+          "bits": {
+            "A": 1,
+            "U": 0,
+            "P": 0,
+            "E": 0,
+            "\u0394": 0,
+            "I": 0,
+            "R": 0,
+            "T": 1
+          },
+          "status_line": "Ready",
+          "data": {
+            "task_id": "goal_76f51d24dda342afb1907cd261f8c9e3",
+            "success": true,
+            "operations_count": 1,
+            "total_duration_ms": 6,
+            "pattern_signature": "goal::goal_76f51d24dda342afb1907cd261f8c9e3",
+            "crystallized": false
+          },
+          "error": null,
+          "execution_time_ms": 31
+        },
+        "reflexive_bits": {
+          "A": 1,
+          "U": 0,
+          "P": 0,
+          "E": 0,
+          "\u0394": 0,
+          "I": 0,
+          "R": 0,
+          "T": 1
+        },
+        "crystallized": false,
+        "pattern_signature": "goal::goal_76f51d24dda342afb1907cd261f8c9e3",
+        "processed_content": "consistency test blob",
+        "meta2_ready": true
+      },
+      {
+        "consciousness_analysis": {
+          "run_id": "b3bd9b39-0ecd-40e7-bf56-685f35c53a59",
+          "status": "completed",
+          "bits": {
+            "A": 1,
+            "U": 0,
+            "P": 0,
+            "E": 0,
+            "\u0394": 0,
+            "I": 0,
+            "R": 0,
+            "T": 1
+          },
+          "status_line": "Ready",
+          "data": {
+            "task_id": "goal_3f3374359cbc4d92afa5cbc504b23bd3",
+            "success": true,
+            "operations_count": 1,
+            "total_duration_ms": 2,
+            "pattern_signature": "goal::goal_3f3374359cbc4d92afa5cbc504b23bd3",
+            "crystallized": false
+          },
+          "error": null,
+          "execution_time_ms": 9
+        },
+        "reflexive_bits": {
+          "A": 1,
+          "U": 0,
+          "P": 0,
+          "E": 0,
+          "\u0394": 0,
+          "I": 0,
+          "R": 0,
+          "T": 1
+        },
+        "crystallized": false,
+        "pattern_signature": "goal::goal_3f3374359cbc4d92afa5cbc504b23bd3",
+        "processed_content": "consistency test blob",
+        "meta2_ready": true
+      },
+      {
+        "consciousness_analysis": {
+          "run_id": "19ebd0f9-cbca-49ad-b32c-bb42df03c346",
+          "status": "completed",
+          "bits": {
+            "A": 1,
+            "U": 0,
+            "P": 0,
+            "E": 0,
+            "\u0394": 0,
+            "I": 0,
+            "R": 0,
+            "T": 1
+          },
+          "status_line": "Ready",
+          "data": {
+            "task_id": "goal_74cff1abdf0f4c958cea173591e7672d",
+            "success": true,
+            "operations_count": 1,
+            "total_duration_ms": 2,
+            "pattern_signature": "goal::goal_74cff1abdf0f4c958cea173591e7672d",
+            "crystallized": false
+          },
+          "error": null,
+          "execution_time_ms": 8
+        },
+        "reflexive_bits": {
+          "A": 1,
+          "U": 0,
+          "P": 0,
+          "E": 0,
+          "\u0394": 0,
+          "I": 0,
+          "R": 0,
+          "T": 1
+        },
+        "crystallized": false,
+        "pattern_signature": "goal::goal_74cff1abdf0f4c958cea173591e7672d",
+        "processed_content": "consistency test blob",
+        "meta2_ready": true
+      },
+      {
+        "consciousness_analysis": {
+          "run_id": "fc157fb9-9105-496d-b7df-e8fd514fa5bc",
+          "status": "completed",
+          "bits": {
+            "A": 1,
+            "U": 0,
+            "P": 0,
+            "E": 0,
+            "\u0394": 0,
+            "I": 0,
+            "R": 0,
+            "T": 1
+          },
+          "status_line": "Ready",
+          "data": {
+            "task_id": "goal_7e9538dce9c0464caea75ef44c82f5b5",
+            "success": true,
+            "operations_count": 1,
+            "total_duration_ms": 2,
+            "pattern_signature": "goal::goal_7e9538dce9c0464caea75ef44c82f5b5",
+            "crystallized": false
+          },
+          "error": null,
+          "execution_time_ms": 8
+        },
+        "reflexive_bits": {
+          "A": 1,
+          "U": 0,
+          "P": 0,
+          "E": 0,
+          "\u0394": 0,
+          "I": 0,
+          "R": 0,
+          "T": 1
+        },
+        "crystallized": false,
+        "pattern_signature": "goal::goal_7e9538dce9c0464caea75ef44c82f5b5",
+        "processed_content": "consistency test blob",
+        "meta2_ready": true
+      },
+      {
+        "consciousness_analysis": {
+          "run_id": "f34e7aeb-4ca2-4b1d-97ec-51db0e8670f7",
+          "status": "completed",
+          "bits": {
+            "A": 1,
+            "U": 0,
+            "P": 0,
+            "E": 0,
+            "\u0394": 0,
+            "I": 0,
+            "R": 0,
+            "T": 1
+          },
+          "status_line": "Ready",
+          "data": {
+            "task_id": "goal_9f8a13ef21484cc6890eb1e52bd0d0d0",
+            "success": true,
+            "operations_count": 1,
+            "total_duration_ms": 2,
+            "pattern_signature": "goal::goal_9f8a13ef21484cc6890eb1e52bd0d0d0",
+            "crystallized": false
+          },
+          "error": null,
+          "execution_time_ms": 8
+        },
+        "reflexive_bits": {
+          "A": 1,
+          "U": 0,
+          "P": 0,
+          "E": 0,
+          "\u0394": 0,
+          "I": 0,
+          "R": 0,
+          "T": 1
+        },
+        "crystallized": false,
+        "pattern_signature": "goal::goal_9f8a13ef21484cc6890eb1e52bd0d0d0",
+        "processed_content": "consistency test blob",
+        "meta2_ready": true
+      },
+      {
+        "consciousness_analysis": {
+          "run_id": "115bb558-8963-4548-90f3-914817130709",
+          "status": "completed",
+          "bits": {
+            "A": 1,
+            "U": 0,
+            "P": 0,
+            "E": 0,
+            "\u0394": 0,
+            "I": 0,
+            "R": 0,
+            "T": 1
+          },
+          "status_line": "Ready",
+          "data": {
+            "task_id": "goal_348cb6d207eb485abfea0e12bbd24acb",
+            "success": true,
+            "operations_count": 1,
+            "total_duration_ms": 2,
+            "pattern_signature": "goal::goal_348cb6d207eb485abfea0e12bbd24acb",
+            "crystallized": false
+          },
+          "error": null,
+          "execution_time_ms": 7
+        },
+        "reflexive_bits": {
+          "A": 1,
+          "U": 0,
+          "P": 0,
+          "E": 0,
+          "\u0394": 0,
+          "I": 0,
+          "R": 0,
+          "T": 1
+        },
+        "crystallized": false,
+        "pattern_signature": "goal::goal_348cb6d207eb485abfea0e12bbd24acb",
+        "processed_content": "consistency test blob",
+        "meta2_ready": true
+      },
+      {
+        "consciousness_analysis": {
+          "run_id": "ba538154-aac2-459d-bce6-0f87f76c9848",
+          "status": "completed",
+          "bits": {
+            "A": 1,
+            "U": 0,
+            "P": 0,
+            "E": 0,
+            "\u0394": 0,
+            "I": 0,
+            "R": 0,
+            "T": 1
+          },
+          "status_line": "Ready",
+          "data": {
+            "task_id": "goal_71b7c96c0e9645af8b2318668602a03c",
+            "success": true,
+            "operations_count": 1,
+            "total_duration_ms": 2,
+            "pattern_signature": "goal::goal_71b7c96c0e9645af8b2318668602a03c",
+            "crystallized": false
+          },
+          "error": null,
+          "execution_time_ms": 8
+        },
+        "reflexive_bits": {
+          "A": 1,
+          "U": 0,
+          "P": 0,
+          "E": 0,
+          "\u0394": 0,
+          "I": 0,
+          "R": 0,
+          "T": 1
+        },
+        "crystallized": false,
+        "pattern_signature": "goal::goal_71b7c96c0e9645af8b2318668602a03c",
+        "processed_content": "consistency test blob",
+        "meta2_ready": true
+      },
+      {
+        "consciousness_analysis": {
+          "run_id": "0744ffc1-fe82-4103-a7bd-7b39325fc5a2",
+          "status": "completed",
+          "bits": {
+            "A": 1,
+            "U": 0,
+            "P": 0,
+            "E": 0,
+            "\u0394": 0,
+            "I": 0,
+            "R": 0,
+            "T": 1
+          },
+          "status_line": "Ready",
+          "data": {
+            "task_id": "goal_90b39639e98942409d8f0a365f4ece02",
+            "success": true,
+            "operations_count": 1,
+            "total_duration_ms": 2,
+            "pattern_signature": "goal::goal_90b39639e98942409d8f0a365f4ece02",
+            "crystallized": false
+          },
+          "error": null,
+          "execution_time_ms": 8
+        },
+        "reflexive_bits": {
+          "A": 1,
+          "U": 0,
+          "P": 0,
+          "E": 0,
+          "\u0394": 0,
+          "I": 0,
+          "R": 0,
+          "T": 1
+        },
+        "crystallized": false,
+        "pattern_signature": "goal::goal_90b39639e98942409d8f0a365f4ece02",
+        "processed_content": "consistency test blob",
+        "meta2_ready": true
+      },
+      {
+        "consciousness_analysis": {
+          "run_id": "aa6d1f98-e8d3-4a96-a3b6-fd321262f22b",
+          "status": "completed",
+          "bits": {
+            "A": 1,
+            "U": 0,
+            "P": 0,
+            "E": 0,
+            "\u0394": 0,
+            "I": 0,
+            "R": 0,
+            "T": 1
+          },
+          "status_line": "Ready",
+          "data": {
+            "task_id": "goal_b0e3d11bb0e9449dad702b81ef9ec069",
+            "success": true,
+            "operations_count": 1,
+            "total_duration_ms": 2,
+            "pattern_signature": "goal::goal_b0e3d11bb0e9449dad702b81ef9ec069",
+            "crystallized": false
+          },
+          "error": null,
+          "execution_time_ms": 8
+        },
+        "reflexive_bits": {
+          "A": 1,
+          "U": 0,
+          "P": 0,
+          "E": 0,
+          "\u0394": 0,
+          "I": 0,
+          "R": 0,
+          "T": 1
+        },
+        "crystallized": false,
+        "pattern_signature": "goal::goal_b0e3d11bb0e9449dad702b81ef9ec069",
+        "processed_content": "consistency test blob",
+        "meta2_ready": true
+      },
+      {
+        "consciousness_analysis": {
+          "run_id": "8b396505-c97d-4c74-9e4a-d4d3623819bd",
+          "status": "completed",
+          "bits": {
+            "A": 1,
+            "U": 0,
+            "P": 0,
+            "E": 0,
+            "\u0394": 0,
+            "I": 0,
+            "R": 0,
+            "T": 1
+          },
+          "status_line": "Ready",
+          "data": {
+            "task_id": "goal_c209b99d1cb94c728c40ea13f2367819",
+            "success": true,
+            "operations_count": 1,
+            "total_duration_ms": 2,
+            "pattern_signature": "goal::goal_c209b99d1cb94c728c40ea13f2367819",
+            "crystallized": false
+          },
+          "error": null,
+          "execution_time_ms": 8
+        },
+        "reflexive_bits": {
+          "A": 1,
+          "U": 0,
+          "P": 0,
+          "E": 0,
+          "\u0394": 0,
+          "I": 0,
+          "R": 0,
+          "T": 1
+        },
+        "crystallized": false,
+        "pattern_signature": "goal::goal_c209b99d1cb94c728c40ea13f2367819",
+        "processed_content": "consistency test blob",
+        "meta2_ready": true
+      }
+    ]
+  },
+  "performance": {
+    "test": "performance",
+    "trials": 100,
+    "mean_ms": 9.675087928771973,
+    "median_ms": 9.558439254760742,
+    "std_ms": 0.6332417695619388,
+    "min_ms": 9.094715118408203,
+    "max_ms": 15.330076217651367,
+    "raw_times": [
+      10.505199432373047,
+      9.42087173461914,
+      9.432077407836914,
+      9.45591926574707,
+      9.559869766235352,
+      9.875059127807617,
+      9.543180465698242,
+      9.341001510620117,
+      9.671926498413086,
+      9.440183639526367,
+      9.601831436157227,
+      9.649991989135742,
+      10.033130645751953,
+      9.527206420898438,
+      9.094715118408203,
+      9.521961212158203,
+      9.382963180541992,
+      9.763002395629883,
+      9.721040725708008,
+      9.569168090820312,
+      9.305000305175781,
+      9.548187255859375,
+      15.330076217651367,
+      9.724855422973633,
+      9.445905685424805,
+      9.583234786987305,
+      9.49406623840332,
+      9.610891342163086,
+      9.550094604492188,
+      9.412050247192383,
+      9.727001190185547,
+      9.521245956420898,
+      9.682178497314453,
+      9.757041931152344,
+      9.744882583618164,
+      9.28187370300293,
+      9.357929229736328,
+      9.673118591308594,
+      9.711980819702148,
+      9.984016418457031,
+      9.89985466003418,
+      10.09821891784668,
+      9.766101837158203,
+      9.536027908325195,
+      9.798765182495117,
+      10.467052459716797,
+      9.605884552001953,
+      9.338140487670898,
+      9.34600830078125,
+      9.533166885375977,
+      9.763956069946289,
+      9.408950805664062,
+      9.788274765014648,
+      9.599924087524414,
+      9.504079818725586,
+      9.484052658081055,
+      9.404182434082031,
+      9.510993957519531,
+      10.068893432617188,
+      9.492874145507812,
+      9.427070617675781,
+      9.516000747680664,
+      9.510993957519531,
+      9.630918502807617,
+      9.299993515014648,
+      9.696006774902344,
+      10.875225067138672,
+      9.557962417602539,
+      9.486913681030273,
+      9.475231170654297,
+      9.668827056884766,
+      9.701013565063477,
+      9.674072265625,
+      9.450912475585938,
+      9.431123733520508,
+      9.429931640625,
+      9.655237197875977,
+      9.432077407836914,
+      9.918928146362305,
+      9.82809066772461,
+      9.361982345581055,
+      9.485006332397461,
+      9.536981582641602,
+      9.41014289855957,
+      9.681940078735352,
+      9.796857833862305,
+      9.248971939086914,
+      9.453058242797852,
+      9.558916091918945,
+      9.490966796875,
+      9.796857833862305,
+      9.608268737792969,
+      9.448766708374023,
+      9.594917297363281,
+      9.569168090820312,
+      9.414911270141602,
+      10.607242584228516,
+      9.525060653686523,
+      9.699821472167969,
+      9.58108901977539
+    ]
+  },
+  "uniqueness": {
+    "test": "pattern_uniqueness",
+    "trials": 50,
+    "unique_patterns": 50,
+    "uniqueness_rate": 1.0,
+    "expected_rate": 1.0
+  },
+  "scientific_score": {
+    "consistency": 1.0,
+    "performance": 1.0,
+    "uniqueness": 1.0,
+    "overall": 1.0
+  }
+}
